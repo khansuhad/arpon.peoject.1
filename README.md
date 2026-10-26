@@ -1,3 +1,6 @@
+
+## FIRST CLASS (26.10.2026)
+
 -  after clone in command type (npm install)
 -  for run use (npm run dev)
 
