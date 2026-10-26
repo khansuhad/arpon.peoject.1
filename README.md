@@ -1,9 +1,9 @@
 fter clone in command type (npm install)
  for run use (npm run dev)
 
- app folder (/)
- page.jsx is main component of path
- layout.jsx is powerful than page.jsx
+ `app folder (/)`
+` page.jsx is main component of path`
+ `layout.jsx is powerful than page.jsx`
  if you want to create new path then add new folder on app (app/newfolder)
  if you want nested path then create nested folder (app/newfolder/nestedfolder/nestedfolder)
  if you want dynamic path then create the folder with third bracket like ([params-name])
