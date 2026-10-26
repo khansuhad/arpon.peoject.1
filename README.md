@@ -1,4 +1,4 @@
-- **fter clone in command type (npm install)
+- ** after clone in command type (npm install)
 - ** for run use (npm run dev)
 
 - ** app folder (/)
